@@ -34,7 +34,7 @@ This game was created during the **2024 GMTK Game Jam** in 96 hours. The focus w
 - **Art & Assets:** Custom Pixel Art by Kwad_rat
 
 ## Credits
-- **Game Design & Programming:** RKByte
+- **Game Design & Programming:** Raiyan Khan
 - **Art & Animation:** Kwad_rat
 
 ## Future Plans
